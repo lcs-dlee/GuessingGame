@@ -31,9 +31,6 @@ Guess it!</string>
                                 <rect key="frame" x="139" y="493" width="43" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Guess"/>
-                                <connections>
-                                    <action selector="gussSubmitted:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bXZ-tY-vuA"/>
-                                </connections>
                             </button>
                             <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Wms-z4-As5">
                                 <rect key="frame" x="112" y="284" width="97" height="30"/>
